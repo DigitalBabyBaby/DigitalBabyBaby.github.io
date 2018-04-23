@@ -1,0 +1,38 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="digitalbabybaby.com" resolutions="1x" timestamp="1524500547226">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4134452884" ref="about-us:diagrams:video:index:contact-us"/>
+    <file name="about-us.css" crc="169029049" ref="about-us"/>
+    <file name="diagrams.css" crc="169029049" ref="diagrams"/>
+    <file name="video.css" crc="169029049" ref="video"/>
+    <file name="index.css" crc="246976634" ref="index"/>
+    <file name="contact-us.css" crc="169029049" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:video:diagrams:about-us:contact-us"/>
+    <file name="museutils.js" crc="340535759" ref="index:video:diagrams:about-us:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:video:diagrams:about-us:contact-us"/>
+    <file name="museconfig.js" crc="310584261" ref="index:video:diagrams:about-us:contact-us"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:video:diagrams:about-us:contact-us"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:video:diagrams:about-us:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:video:diagrams:about-us:contact-us"/>
+    <file name="require.js" crc="7928878" ref="index:video:diagrams:about-us:contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="digital baby.jpg" crc="339043789" seo="true" ref="index:video:diagrams:about-us:contact-us">
+      <caption webpage="index" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="diagrams" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="cover_kim.jpg" crc="3977693096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="10761647" seo="true" mt="1524500349457" redirect="true"/>
+  <file name="video.html" crc="257912102" seo="true" mt="1524500009454" redirect="true"/>
+  <file name="diagrams.html" crc="385991768" seo="true" mt="1524500009454" redirect="true"/>
+  <file name="about-us.html" crc="354492295" seo="true" mt="1524500009454" redirect="true"/>
+  <file name="contact-us.html" crc="4292231861" seo="true" mt="1524500009454" redirect="true"/>
+</manifest>
